@@ -128,7 +128,7 @@ function winGame() {
 
   document.getElementById("proposalBtn").addEventListener("click", () => {
     message.innerHTML = `
-      Will you be mine forever? 💖 <br><br>
+      Will you be mine forever Babyy? 💖 <br><br>
       <button onclick="finalYes()">YES 💍</button>
     `;
   });
@@ -136,7 +136,7 @@ function winGame() {
 
 function finalYes() {
   message.innerHTML = `
-    Forever and always. ❤️ <br>
+    Forever and always. Be in ❤️ heart Babyyyy<br>
     You are my everything.
   `;
   launchConfetti();
